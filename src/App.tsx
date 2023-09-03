@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Learn React and TypeScript!!
         </a>
       </header>
     </div>
